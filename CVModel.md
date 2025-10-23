@@ -1,7 +1,7 @@
 
 # A. Christian
 
-![Photo de profil]([(https://github.com/christianwildcodeschool-dotcom/CV/blob/main/photo.jpg)](https://github.com/christianwildcodeschool-dotcom/CV/blob/main/photo.jpg))
+![Photo de profil](https://github.com/christianwildcodeschool-dotcom/CV/blob/main/photo.jpg)
 
 ## Présentation
 
